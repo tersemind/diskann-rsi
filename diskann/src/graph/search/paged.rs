@@ -2,6 +2,8 @@
  * Copyright (c) Microsoft Corporation.
  * Licensed under the MIT license.
  */
+// Copyright (C) 2026 TerseMind (RSI modifications).
+// Use of this source code is governed by a MIT license.
 
 use diskann_utils::future::SendFuture;
 

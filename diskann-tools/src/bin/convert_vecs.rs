@@ -2,6 +2,8 @@
  * Copyright (c) Microsoft Corporation.
  * Licensed under the MIT license.
  */
+// Copyright (C) 2026 TerseMind (RSI tool additions).
+// Use of this source code is governed by a MIT license.
 
 //! Converts `.fvecs`/`.ivecs` files (the row-prefixed format used by the public TEXMEX
 //! benchmark datasets such as SIFT1M) into DiskANN's `.fbin` and ground-truth formats.

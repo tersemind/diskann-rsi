@@ -75,3 +75,5 @@ Raw measurements from the paper are in [`bench/results/`](bench/results/) (`vama
 ## License
 
 MIT — see [LICENSE.txt](LICENSE.txt) and [NOTICE.txt](NOTICE.txt). Includes attribution to microsoft/DiskANN and ZJULearning/nsg.
+
+RSI modifications and project-authored benchmark and reproduction tools are Copyright (C) 2026 TerseMind. Upstream and third-party code retain their original copyright notices.
