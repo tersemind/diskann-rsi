@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """Recall-QPS curves for the paper, plotted from the frozen raw measurements.
 
 Input :  bench/results/{vamana,diskann_opt,hnswlib,nsg}.jsonl

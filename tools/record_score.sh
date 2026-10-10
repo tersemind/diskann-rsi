@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (C) 2026 TerseMind.
+# Use of this source code is governed by a MIT license.
+
 # record_score.sh — called after each optimization iteration (runs on the host, inside repo_path).
 #
 # Usage:

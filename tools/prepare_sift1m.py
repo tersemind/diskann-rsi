@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """One-time SIFT1M data preparation for the DiskANN benchmark harness.
 
 Downloads sift-128-euclidean.hdf5 (the standard ANN-benchmarks SIFT1M distribution:

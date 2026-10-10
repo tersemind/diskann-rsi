@@ -1,5 +1,7 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT license.
+# Copyright (C) 2026 TerseMind (RSI build configuration).
+# Use of this source code is governed by a MIT license.
 
 [workspace]
 resolver = "3"
